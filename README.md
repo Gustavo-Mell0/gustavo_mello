@@ -1,5 +1,10 @@
 ## Oi eu sou o Gustavo Mello, desenvolvdor Front-end!
 
+<p>- 🧳 Hoje trabalho no front-end com freelancer</p>
+<p>- 📖 Estudando Javascript e Typescript</p>
+<p>- 📫 Contate-me: Mellogusta90@gmail.com</p>
+
+
 
 
 <div style="display: inline_block"><br>
